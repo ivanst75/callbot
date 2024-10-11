@@ -1,0 +1,5 @@
+BOT_TOKEN = "6723563813:AAFXjEuN6-a4GRutZpblbBZqCQGQCKaZ6gI"
+
+api_id = 21834484
+
+api_hash = "c38d20e828572d82ffe01bb2265619b0"
